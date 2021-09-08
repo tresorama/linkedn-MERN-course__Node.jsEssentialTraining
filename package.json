@@ -1,0 +1,14 @@
+{
+  "name": "linkedn-nodejs_essential_training",
+  "version": "1.0.0",
+  "description": "",
+  "main": "01_exploring_global.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Jacopo Marrone",
+  "license": "ISC",
+  "devDependencies": {
+    "@types/node": "^14.11.0"
+  }
+}
